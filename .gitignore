@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+/data/
+/demo_report.html
+/report.html
+.venv/
